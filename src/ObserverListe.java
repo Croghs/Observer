@@ -1,4 +1,4 @@
-public class ObserverListe {
+public class ObserverListe{
 
     public static void main (String[]args){
         ObserverListe observer = new ObserverListe();
@@ -7,7 +7,9 @@ public class ObserverListe {
     public ObserverListe(){
 
     }
+
+
 }
 //Strg T update
 //Strg K committen
-// Strg Shift K hochladen
+//Strg Shift K hochladen
