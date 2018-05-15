@@ -1,3 +1,7 @@
 public class ObserverListe {
-    test
+
+    public static void main(String[] args){
+
+    }
+
 }
