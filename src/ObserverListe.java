@@ -9,5 +9,5 @@ public class ObserverListe {
     }
 }
 //Strg T update
-//Strg Shift K hochladen
-//Shift K committen
+//Strg K committen
+// Strg Shift K hochladen
