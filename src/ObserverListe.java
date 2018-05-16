@@ -1,3 +1,6 @@
+import javafx.beans.*;
+import javafx.collections.*;
+
 public class ObserverListe {
 
     public static void main (String[]args){
@@ -5,7 +8,8 @@ public class ObserverListe {
     }
 
     public ObserverListe(){
-
+        int[] a = new int[]{1,2,3,4};
+        ObservableList observableList = FXCollections.observableArrayList(a);
     }
 }
 //Strg T update
